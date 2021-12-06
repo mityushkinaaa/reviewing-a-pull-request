@@ -1,5 +1,5 @@
 ## Welcome to awesome game of Tetris
-## Будет интересно
+## Будет  интересно!
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
